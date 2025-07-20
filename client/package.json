@@ -1,8 +1,10 @@
 {
-    "name": "code-sync-client",
+    "name": "collaborative-code-editor",
     "private": true,
-    "version": "0.0.0",
+    "version": "1.0.0",
     "type": "module",
+    "description": "A real-time collaborative code editor built with React, Vite, and Codemirror.",
+  "author": "Prachi Kumari",
     "scripts": {
         "dev": "vite",
         "build": "tsc && vite build",
